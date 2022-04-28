@@ -1,5 +1,5 @@
-# 1 Клиент-серверное приложение
+# Порождающие шаблоны Builder, Singleton, Factory Method, Abstract Factory, Prototype
 
 ## Д/З по курсу Java Core
-## Основы работы с сетью.Модель OSI
+## №1 Задача Люди
 
